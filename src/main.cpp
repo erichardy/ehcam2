@@ -9,6 +9,8 @@ réglage de paramètres, page web sophistiquée, etc.
 Pour plus d'infos:
 https://electroniqueamateur.blogspot.com/2020/01/esp32-cam-un-web-server-minimaliste.html
 
+Merci à Yves Pelletier pour son partage.
+
 */
 
 #include "esp_camera.h"
